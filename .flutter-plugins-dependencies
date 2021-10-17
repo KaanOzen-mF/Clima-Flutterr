@@ -1,12 +1,1 @@
-{"info":"This is a generated file; do not edit or check into version control.",
-"plugins":{"ios":[{"name":"geolocator","path":"C:\\\\src\\\\flutter\\\\.pub-cache\
-\\\hosted\\\\pub.dartlang.org\\\\geolocator-3.0.1\\\\","dependencies":["permission_handler"]},
-{"name":"permission_handler","path":"C:\\\\src\\\\flutter\\\\.pub-cache\\\\hosted\\\\pub.dartlang.org\\\
-\permission_handler-3.3.0\\\\","dependencies":[]}],"android":[{"name":"geolocator","path":"C:\\\\src\\\\flut
-ter\\\\.pub-cache\\\\hosted\\\\pub.dartlang.org\\\\geolocator-3.0.1\\\\","dependencies":["permission_handler","g
-oogle_api_availability"]},{"name":"google_api_availability","path":"C:\\\\src\\\\flutter\\\\.pub-cache\\\\hosted\\\\pub.d
-artlang.org\\\\google_api_availability-2.0.4\\\\","dependencies":[]},{"name":"permission_handler","path":"C:\\\\src\\\\flut
-ter\\\\.pub-cache\\\\hosted\\\\pub.dartlang.org\\\\permission_handler-3.3.0\\\\","dependencies":[]}],"macos":[],"linux":[],"w
-indows":[],"web":[]},"dependencyGraph":[{"name":"geolocator","dependencies":["permission_handler","google_api_availability"]},{
-"name":"google_api_availability","dependencies":[]},{"name":"permission_handler","dependencies":[]}],"date_created":"2021-10-1
-0 16:59:40.967981","version":"2.2.3"}
+{"info":"This is a generated file; do not edit or check into version control.","plugins":{"ios":[{"name":"geolocator","path":"C:\\\\src\\\\flutter\\\\.pub-cache\\\\hosted\\\\pub.dartlang.org\\\\geolocator-3.0.1\\\\","dependencies":["permission_handler"]},{"name":"permission_handler","path":"C:\\\\src\\\\flutter\\\\.pub-cache\\\\hosted\\\\pub.dartlang.org\\\\permission_handler-3.3.0\\\\","dependencies":[]}],"android":[{"name":"geolocator","path":"C:\\\\src\\\\flutter\\\\.pub-cache\\\\hosted\\\\pub.dartlang.org\\\\geolocator-3.0.1\\\\","dependencies":["permission_handler","google_api_availability"]},{"name":"google_api_availability","path":"C:\\\\src\\\\flutter\\\\.pub-cache\\\\hosted\\\\pub.dartlang.org\\\\google_api_availability-2.0.4\\\\","dependencies":[]},{"name":"permission_handler","path":"C:\\\\src\\\\flutter\\\\.pub-cache\\\\hosted\\\\pub.dartlang.org\\\\permission_handler-3.3.0\\\\","dependencies":[]}],"macos":[],"linux":[],"windows":[],"web":[]},"dependencyGraph":[{"name":"geolocator","dependencies":["permission_handler","google_api_availability"]},{"name":"google_api_availability","dependencies":[]},{"name":"permission_handler","dependencies":[]}],"date_created":"2021-10-17 15:22:33.780418","version":"2.2.3"}
